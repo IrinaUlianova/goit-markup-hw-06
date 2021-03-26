@@ -811,7 +811,7 @@ img {
 }
 .modal-form-term:checked + .modal-form-check-desk::before {
   background-color: var(--accent-color);
-  background-image: url("/images/tick.svg");
+  background-image: url("/images/icons.svg/tick.svg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
