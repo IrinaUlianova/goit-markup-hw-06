@@ -713,6 +713,10 @@ img {
   background: #ffffff;
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
+.modal-button-icon:focus,
+.modal-button-icon:hover {
+  fill: var(--accent-color);
+}
 .modal-contact-form {
   display: flex;
   flex-direction: column;
